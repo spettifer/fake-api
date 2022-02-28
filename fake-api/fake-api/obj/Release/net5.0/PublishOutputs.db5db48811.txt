@@ -1,0 +1,13 @@
+J:\_git\guestline\data-and-reporting\fake-api\fake-api\fake-api\obj\Release\net5.0\PubTmp\Out\fake-api.exe
+J:\_git\guestline\data-and-reporting\fake-api\fake-api\fake-api\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+J:\_git\guestline\data-and-reporting\fake-api\fake-api\fake-api\obj\Release\net5.0\PubTmp\Out\appsettings.json
+J:\_git\guestline\data-and-reporting\fake-api\fake-api\fake-api\obj\Release\net5.0\PubTmp\Out\Data\bookings.json
+J:\_git\guestline\data-and-reporting\fake-api\fake-api\fake-api\obj\Release\net5.0\PubTmp\Out\fake-api.dll
+J:\_git\guestline\data-and-reporting\fake-api\fake-api\fake-api\obj\Release\net5.0\PubTmp\Out\fake-api.deps.json
+J:\_git\guestline\data-and-reporting\fake-api\fake-api\fake-api\obj\Release\net5.0\PubTmp\Out\fake-api.runtimeconfig.json
+J:\_git\guestline\data-and-reporting\fake-api\fake-api\fake-api\obj\Release\net5.0\PubTmp\Out\fake-api.pdb
+J:\_git\guestline\data-and-reporting\fake-api\fake-api\fake-api\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+J:\_git\guestline\data-and-reporting\fake-api\fake-api\fake-api\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+J:\_git\guestline\data-and-reporting\fake-api\fake-api\fake-api\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+J:\_git\guestline\data-and-reporting\fake-api\fake-api\fake-api\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+J:\_git\guestline\data-and-reporting\fake-api\fake-api\fake-api\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

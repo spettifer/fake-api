@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="booking-example" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^J:\\_git\\guestline\\data-and-reporting\\fake-api\\fake-api\\fake-api\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
